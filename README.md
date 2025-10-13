@@ -12,7 +12,13 @@ ARMSX2 supports any ARM capable device, including Android, iOS, Linux,and Mac pl
 
 Please note that a BIOS dump from a legitimately-owned PS2 console is required to use the emulator.PCSX2
 
+# Google Play
 ARMSX2 is available on the Google Play Store once released. 
 
+# Additional Credits 
+Thank you to discord user @fffathur and @em2008 for creating and working on the logo! 
+Thank you to discord user @tanossh.i for creating and working on the ARMSX2 website!
+
+Join our Discord server to stay connected with the project! 
 [![Discord Server](https://img.shields.io/discord/309643527816609793?color=%235CA8FA&label=ARMSX2%20Discord&logo=discord&logoColor=white)](https://discord.gg/KwAChKDctz)
 

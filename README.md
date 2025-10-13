@@ -1,3 +1,6 @@
+
+[![Discord Server](https://img.shields.io/discord/309643527816609793?color=%235CA8FA&label=ARMSX2%20Discord&logo=discord&logoColor=white)](https://discord.gg/KwAChKDctz)
+
 # ARMSX2
 
 ARMSX2 is a free and open-source PlayStation 2 (PS2) emulator for ARM devices based on PCSX2 and PCSX2_ARM64. Its purpose is to emulate the PS2's hardware for ARM devices, using a recompiler that operates as x86 -> arm64, not native arm64, this is subject to change as development continues. ARMSX2 allows you to play PS2 games on your mobile android phone, as well as on iOS and MacOS devices.
@@ -19,6 +22,4 @@ ARMSX2 is available on the Google Play Store once released.
 Thank you to discord user @fffathur and @em2008 for creating and working on the logo! 
 Thank you to discord user @tanossh.i for creating and working on the ARMSX2 website!
 
-Join our Discord server to stay connected with the project! 
-[![Discord Server](https://img.shields.io/discord/309643527816609793?color=%235CA8FA&label=ARMSX2%20Discord&logo=discord&logoColor=white)](https://discord.gg/KwAChKDctz)
 

@@ -21,5 +21,5 @@ ARMSX2 is available on the Google Play Store once released.
 # Additional Credits 
 Thank you to discord user @fffathur and @em2008 for creating and working on the logo! 
 Thank you to discord user @tanossh.i for creating and working on the ARMSX2 website!
-Thank you to discord user .stern. / Developer SternXD for his contributions to the project!
+Thank you to discord user .stern. / Developer @SternXD for his contributions to the project!
 

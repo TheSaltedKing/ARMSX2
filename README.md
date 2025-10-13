@@ -14,5 +14,5 @@ Please note that a BIOS dump from a legitimately-owned PS2 console is required t
 
 ARMSX2 is available on the Google Play Store once released. 
 
-[![Discord Server](https://img.shields.io/discord/309643527816609793?color=%235CA8FA&label=PCSX2%20Discord&logo=discord&logoColor=white)](https://discord.gg/KwAChKDctz)
+[![Discord Server](https://img.shields.io/discord/309643527816609793?color=%235CA8FA&label=ARMSX2%20Discord&logo=discord&logoColor=white)](https://discord.gg/KwAChKDctz)
 

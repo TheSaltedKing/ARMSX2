@@ -20,6 +20,7 @@ ARMSX2 is available on the Google Play Store once released.
 
 # Additional Credits 
 PCSX2 – ARMSX2 would not be possible without the legendary work from the PCSX2 team. 
+PCSX2_ARM64 by developer Pontos - ARMSX2 originally started off as a fork of developer Pontos work. 
 Thank you to discord user @fffathur and @em2008 for creating and working on the logo! 
 Thank you to discord user @tanossh.i for creating and working on the ARMSX2 website!
 Thank you to discord user .stern. / Developer @SternXD for his contributions to the project!

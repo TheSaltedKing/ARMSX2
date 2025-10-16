@@ -30,8 +30,6 @@ ARMSX2 is available on the Google Play Store once released.
 
 Thank you to [@fffathur](https://github.com/fffathur) and [@EM2008](https://github.com/EM20080) for creating and working on the logo! 
 
-Thank you to developer [@SternXD](https://github.com/SternXD) for his contributions to the project!
-
 Thank you to developers [@tanosshi](https://github.com/tanosshi) [@jpolo1224](https://github.com/jpolo1224) [@MoonPower](https://github.com/momo-AUX1) for working on the ARMSX2 website!
 
 

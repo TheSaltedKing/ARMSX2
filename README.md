@@ -19,6 +19,7 @@ Please note that a BIOS dump from a legitimately-owned PS2 console is required t
 ARMSX2 is available on the Google Play Store once released. 
 
 # Additional Credits 
+PCSX2 – ARMSX2 would not be possible without the legendary work from the PCSX2 team. 
 Thank you to discord user @fffathur and @em2008 for creating and working on the logo! 
 Thank you to discord user @tanossh.i for creating and working on the ARMSX2 website!
 Thank you to discord user .stern. / Developer @SternXD for his contributions to the project!

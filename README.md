@@ -30,7 +30,9 @@ PCSX2_ARM64 by developer Pontos - ARMSX2 originally started off as a fork of dev
 
 Thank you to discord user @fffathur and @em2008 for creating and working on the logo! 
 
-Thank you to discord user @tanossh.i for creating and working on the ARMSX2 website!
+Thank you to developer @SternXD for his contributions to the project!
 
-Thank you to discord user .stern. / Developer @SternXD for his contributions to the project!
+Thank you to developers @tanosshi, @jpolo1224, @MoonPower for working on the ARMSX2 website!
+
+
 

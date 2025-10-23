@@ -23,6 +23,9 @@ Any other website is not affiliated with ARMSX2.
 # Google Play Store
 ARMSX2 is available on the Google Play Store once released. 
 
+# Affiliation 
+We are NOT affiliated with ARM Holding LTD in any way shape or form. We chose the name ARMSX2 since it runs on ARM devices, and seek no commercial incentive from the emulator. The most we accept is voluntary donations. Thank you. 
+
 # Additional Credits 
 [PCSX2](https://github.com/PCSX2/pcsx2) - ARMSX2 would not be possible without the legendary work from the PCSX2 team. 
 
